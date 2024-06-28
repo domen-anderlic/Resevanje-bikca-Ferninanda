@@ -1,0 +1,11 @@
+ARROW_UP                    skok
+ARROW_LEFT                premik levo
+ARROW_RIGHT             premik desno
+SPACEBAR                     strel
+R                                     ponovni poizkus
+ESC                                menu
+`(GRAVE)                        izhod (save and exit)
+
+Izogibaj se sovraznikom.
+Na stopnji najdi 2 skriti areni in ju razstreli, s tem tudi resis bikca. Ko na stopnji resis oba bikca, se samodejno pricne naslednja. Ko koncas obe stopnji, se tvoj cas shrani, igrica se konca. ce te ubije sovraznik, pades v neskoncnost ali se ujames za zidom, ali ti zmanjka casa pritisni 'r' za ponovni poizkus.
+Srecno!
